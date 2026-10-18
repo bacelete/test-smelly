@@ -1,9 +1,9 @@
 # Capa
 
-**Disciplina:** [NOME DA DISCIPLINA]
+**Disciplina:** Teste de Software
 **Trabalho:** Refatoração de Testes e Detecção de Test Smells
-**Aluno:** [NOME COMPLETO]
-**Matrícula:** [MATRÍCULA]
+**Aluno:** Arthur Henrique Teixeira e Silva Bacelete
+**Matrícula:** 859123
 **Repositório:** https://github.com/bacelete/test-smelly
 
 ---
