@@ -144,7 +144,7 @@ Configuração usada: `.eslintrc.json` do enunciado, com `eslint@8` e `eslint-pl
 
 **Primeira execução (`npx eslint .`):**
 
-> [INSERIR PRINT AQUI. Saída em texto salva em `docs/eslint-antes.txt`]
+> <img width="1722" height="548" alt="image" src="https://github.com/user-attachments/assets/28617112-596b-41f5-bda9-2f8e902cd61a" />
 
 ```
 test/userService.smelly.test.js
